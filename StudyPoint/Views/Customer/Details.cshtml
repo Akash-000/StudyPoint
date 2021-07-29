@@ -1,0 +1,31 @@
+﻿@model StudyPoint.Models.ApplicationUser
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/AdminSharedView.cshtml";
+}
+<br />
+<h2>Customer Details</h2>
+<br />
+<h3>
+    @Model.Name
+</h3>
+<ul>
+    <li><strong>Email Address : </strong>@Model.Email</li>
+
+    @{
+        if (Model.MobileNumber != null)
+        {
+            <li><strong>Contact Number : </strong> @Model.MobileNumber</li>
+        }
+        else
+        {
+            <li><strong>Contact Number : </strong> Not Provided</li>
+        }
+    }
+
+    <li><strong>Address : </strong>@Model.Address</li>
+</ul>
+
+@Html.ActionLink("Back to Users", "Index", "Customer")
+
+

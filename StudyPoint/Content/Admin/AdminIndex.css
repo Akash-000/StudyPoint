@@ -1,0 +1,19 @@
+﻿row
+    {
+        padding-top: 50px;
+    }
+    .adminText
+    {
+        padding-top: 50px;
+    }
+    p{
+        font-size: 17px;
+        line-height:25px;
+        letter-spacing:1px;
+    }
+    .adminImage
+    {
+        height:300px;
+        width:300px;
+        border-radius: 50px;
+    }

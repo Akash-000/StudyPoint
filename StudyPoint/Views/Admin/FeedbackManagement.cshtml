@@ -1,0 +1,27 @@
+﻿@model IEnumerable<StudyPoint.Models.FeedbackMsg>
+@{
+    ViewBag.Title = "FeedbackManagement";
+    Layout = "~/Views/Shared/AdminSharedView.cshtml";
+}
+<br />
+<h2>Feedbacks from Users</h2>
+<br />
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Feedbacks</th>
+            <th>By: </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var feedback in Model)
+        {
+            <tr>
+                <td>@feedback.Message</td>
+                <td>@feedback.CustomerUserName</td>
+            </tr>
+
+        }
+    </tbody>
+</table>
+

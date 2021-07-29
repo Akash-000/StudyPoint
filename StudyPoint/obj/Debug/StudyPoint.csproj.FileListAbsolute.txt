@@ -1,0 +1,880 @@
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\ApplicationInsights.config
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\roslyn\csc.exe
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\roslyn\System.Collections.Immutable.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\roslyn\System.Reflection.Metadata.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\roslyn\vbc.exe
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\roslyn\VBCSCompiler.exe
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\roslyn\VBCSCompiler.exe.config
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\StudyPoint.dll.config
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\StudyPoint.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\StudyPoint.pdb
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Antlr3.Runtime.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\EntityFramework.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\EntityFramework.SqlServer.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.AI.Agent.Intercept.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.AI.DependencyCollector.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.AI.Web.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.AI.WindowsServer.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.ApplicationInsights.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Core.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.Owin.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Cookies.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Facebook.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Google.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.OAuth.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Twitter.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.Web.Infrastructure.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Newtonsoft.Json.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Owin.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\System.Web.Helpers.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\System.Web.Mvc.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\System.Web.Optimization.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\System.Web.Razor.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\System.Web.WebPages.Deployment.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\System.Web.WebPages.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\System.Web.WebPages.Razor.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\WebGrease.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.AI.DependencyCollector.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.AI.Web.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.AI.WindowsServer.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.ApplicationInsights.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\System.Web.Helpers.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\System.Web.Mvc.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\System.Web.Optimization.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\System.Web.Razor.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\System.Web.WebPages.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\System.Web.WebPages.Deployment.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\System.Web.WebPages.Razor.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Antlr3.Runtime.pdb
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Newtonsoft.Json.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\EntityFramework.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\EntityFramework.SqlServer.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Core.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.Owin.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Facebook.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Cookies.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.OAuth.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Google.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Twitter.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.csprojResolveAssemblyReference.cache
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.pdb
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.InitialModel.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.csproj.GenerateResource.Cache
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAddressToCustomer.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedPhoneNumberToCustomer.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedJobProfile.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedNameToJobProfile.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.SetNameOfJobProfile.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.PopulateJobProfile.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedCourseToModel.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddCourseDifficultyLevel.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedNameToCourse.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.PopulateNameInCourse.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddCourseDifficultyIdValues.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedDataAnnotationsToModel.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedJobProfile1.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddAnnotationToModel.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAnnotationsToCourse.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedValidations.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedByteToJobProfile.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\AutoMapper.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\System.Net.Http.Formatting.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\System.Web.Http.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\System.Web.Http.WebHost.dll
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\AutoMapper.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\System.Net.Http.Formatting.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\System.Web.Http.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\bin\System.Web.Http.WebHost.xml
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.FeedbackClassAdded.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedFeedbackModel.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedFeedbackModelAnnotations.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AnnotationsRemovedFeedback.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.ChangedDatabaseException.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedDiscussionBoardModel.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.PopulateDiscussionTable.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.RemovedAnnotationsDiscussionModel.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAnnotationDiscussionModel.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.SeedUsers.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddAddressToApplicationUser.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddMobileNumberToApplicationUser.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAnnotationToMobileNumber.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedOccupationToApplicationUser.resources
+C:\faltu\webapp try\projects\try 1\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedNameToApplicationUser.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\ApplicationInsights.config
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\csc.exe
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\System.Collections.Immutable.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\System.Reflection.Metadata.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\vbc.exe
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\VBCSCompiler.exe
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\VBCSCompiler.exe.config
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\StudyPoint.dll.config
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\StudyPoint.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\StudyPoint.pdb
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Antlr3.Runtime.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\AutoMapper.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\EntityFramework.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\EntityFramework.SqlServer.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.Agent.Intercept.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.DependencyCollector.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.Web.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.WindowsServer.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.ApplicationInsights.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Core.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Cookies.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Facebook.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Google.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.OAuth.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Twitter.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Web.Infrastructure.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Newtonsoft.Json.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Owin.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Net.Http.Formatting.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Helpers.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Http.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Http.WebHost.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Mvc.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Optimization.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Razor.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.WebPages.Deployment.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.WebPages.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.WebPages.Razor.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\WebGrease.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\AutoMapper.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.DependencyCollector.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.Web.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.WindowsServer.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.ApplicationInsights.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Net.Http.Formatting.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Http.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Http.WebHost.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Helpers.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Mvc.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Optimization.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Razor.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.WebPages.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.WebPages.Deployment.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.WebPages.Razor.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Antlr3.Runtime.pdb
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Newtonsoft.Json.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\EntityFramework.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\EntityFramework.SqlServer.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Core.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Facebook.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Cookies.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.OAuth.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Google.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Twitter.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.csprojResolveAssemblyReference.cache
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.InitialModel.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAddressToCustomer.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedPhoneNumberToCustomer.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedJobProfile.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedNameToJobProfile.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.SetNameOfJobProfile.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.PopulateJobProfile.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedCourseToModel.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddCourseDifficultyLevel.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedNameToCourse.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.PopulateNameInCourse.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddCourseDifficultyIdValues.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedDataAnnotationsToModel.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedJobProfile1.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddAnnotationToModel.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAnnotationsToCourse.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedValidations.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedByteToJobProfile.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.FeedbackClassAdded.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedFeedbackModel.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedFeedbackModelAnnotations.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AnnotationsRemovedFeedback.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.ChangedDatabaseException.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedDiscussionBoardModel.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.PopulateDiscussionTable.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.RemovedAnnotationsDiscussionModel.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAnnotationDiscussionModel.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.SeedUsers.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddAddressToApplicationUser.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddMobileNumberToApplicationUser.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAnnotationToMobileNumber.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedOccupationToApplicationUser.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedNameToApplicationUser.resources
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.csproj.GenerateResource.Cache
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.dll
+C:\faltu\webapp try\projects\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.pdb
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\ApplicationInsights.config
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\csc.exe
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\System.Collections.Immutable.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\System.Reflection.Metadata.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\vbc.exe
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\VBCSCompiler.exe
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\VBCSCompiler.exe.config
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\StudyPoint.dll.config
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\StudyPoint.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\StudyPoint.pdb
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Antlr3.Runtime.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\AutoMapper.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\EntityFramework.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\EntityFramework.SqlServer.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.Agent.Intercept.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.DependencyCollector.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.Web.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.WindowsServer.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.ApplicationInsights.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Core.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Cookies.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Facebook.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Google.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.OAuth.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Twitter.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Web.Infrastructure.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Newtonsoft.Json.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Owin.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Net.Http.Formatting.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Helpers.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Http.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Http.WebHost.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Mvc.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Optimization.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Razor.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.WebPages.Deployment.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.WebPages.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.WebPages.Razor.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\WebGrease.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\AutoMapper.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.DependencyCollector.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.Web.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.WindowsServer.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.ApplicationInsights.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Net.Http.Formatting.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Http.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Http.WebHost.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Helpers.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Mvc.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Optimization.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Razor.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.WebPages.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.WebPages.Deployment.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.WebPages.Razor.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Antlr3.Runtime.pdb
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Newtonsoft.Json.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\EntityFramework.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\EntityFramework.SqlServer.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Core.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Facebook.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Cookies.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.OAuth.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Google.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Twitter.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.csprojResolveAssemblyReference.cache
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.InitialModel.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAddressToCustomer.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedPhoneNumberToCustomer.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedJobProfile.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedNameToJobProfile.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.SetNameOfJobProfile.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.PopulateJobProfile.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedCourseToModel.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddCourseDifficultyLevel.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedNameToCourse.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.PopulateNameInCourse.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddCourseDifficultyIdValues.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedDataAnnotationsToModel.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedJobProfile1.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddAnnotationToModel.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAnnotationsToCourse.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedValidations.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedByteToJobProfile.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.FeedbackClassAdded.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedFeedbackModel.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedFeedbackModelAnnotations.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AnnotationsRemovedFeedback.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.ChangedDatabaseException.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedDiscussionBoardModel.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.PopulateDiscussionTable.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.RemovedAnnotationsDiscussionModel.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAnnotationDiscussionModel.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.SeedUsers.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddAddressToApplicationUser.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddMobileNumberToApplicationUser.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAnnotationToMobileNumber.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedOccupationToApplicationUser.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedNameToApplicationUser.resources
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.csproj.GenerateResource.Cache
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.dll
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.pdb
+C:\faltu\webapp try\WebApplication1\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedDataToCourse.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\ApplicationInsights.config
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\csc.exe
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\System.Collections.Immutable.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\System.Reflection.Metadata.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\vbc.exe
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\VBCSCompiler.exe
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\roslyn\VBCSCompiler.exe.config
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\StudyPoint.dll.config
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\StudyPoint.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\StudyPoint.pdb
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Antlr3.Runtime.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\AutoMapper.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\EntityFramework.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\EntityFramework.SqlServer.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.Agent.Intercept.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.DependencyCollector.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.Web.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.WindowsServer.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.ApplicationInsights.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Core.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Cookies.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Facebook.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Google.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.OAuth.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Twitter.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Web.Infrastructure.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Newtonsoft.Json.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Owin.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Net.Http.Formatting.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Helpers.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Http.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Http.WebHost.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Mvc.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Optimization.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Razor.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.WebPages.Deployment.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.WebPages.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.WebPages.Razor.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\WebGrease.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\AutoMapper.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.DependencyCollector.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.Web.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AI.WindowsServer.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.ApplicationInsights.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Net.Http.Formatting.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Http.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Http.WebHost.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Helpers.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Mvc.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Optimization.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.Razor.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.WebPages.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.WebPages.Deployment.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\System.Web.WebPages.Razor.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Antlr3.Runtime.pdb
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Newtonsoft.Json.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\EntityFramework.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\EntityFramework.SqlServer.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Core.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Facebook.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Cookies.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.OAuth.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Google.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Twitter.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.csprojResolveAssemblyReference.cache
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.InitialModel.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAddressToCustomer.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedPhoneNumberToCustomer.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedJobProfile.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedNameToJobProfile.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.SetNameOfJobProfile.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.PopulateJobProfile.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedCourseToModel.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddCourseDifficultyLevel.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedNameToCourse.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.PopulateNameInCourse.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddCourseDifficultyIdValues.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedDataAnnotationsToModel.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedJobProfile1.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddAnnotationToModel.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAnnotationsToCourse.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedValidations.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedByteToJobProfile.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.FeedbackClassAdded.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedFeedbackModel.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedFeedbackModelAnnotations.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AnnotationsRemovedFeedback.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.ChangedDatabaseException.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedDiscussionBoardModel.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.PopulateDiscussionTable.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.RemovedAnnotationsDiscussionModel.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAnnotationDiscussionModel.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.SeedUsers.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddAddressToApplicationUser.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddMobileNumberToApplicationUser.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAnnotationToMobileNumber.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedOccupationToApplicationUser.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedNameToApplicationUser.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedDataToCourse.resources
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.csproj.GenerateResource.Cache
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.dll
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.pdb
+C:\faltu\webapp try\projects\try finally upload done\try 1 after review with dipen second\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedRequiredToData.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\ApplicationInsights.config
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\roslyn\csc.exe
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\roslyn\System.Collections.Immutable.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\roslyn\System.Reflection.Metadata.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\roslyn\vbc.exe
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\roslyn\VBCSCompiler.exe
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\roslyn\VBCSCompiler.exe.config
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\StudyPoint.dll.config
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\StudyPoint.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\StudyPoint.pdb
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Antlr3.Runtime.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\AutoMapper.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\EntityFramework.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\EntityFramework.SqlServer.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.AI.Agent.Intercept.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.AI.DependencyCollector.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.AI.Web.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.AI.WindowsServer.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.ApplicationInsights.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Core.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.Owin.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Cookies.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Facebook.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Google.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.OAuth.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Twitter.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.Web.Infrastructure.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Newtonsoft.Json.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Owin.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\System.Net.Http.Formatting.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\System.Web.Helpers.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\System.Web.Http.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\System.Web.Http.WebHost.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\System.Web.Mvc.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\System.Web.Optimization.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\System.Web.Razor.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\System.Web.WebPages.Deployment.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\System.Web.WebPages.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\System.Web.WebPages.Razor.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\WebGrease.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\AutoMapper.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.AI.DependencyCollector.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.AI.Web.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.AI.WindowsServer.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.ApplicationInsights.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\System.Net.Http.Formatting.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\System.Web.Http.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\System.Web.Http.WebHost.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\System.Web.Helpers.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\System.Web.Mvc.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\System.Web.Optimization.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\System.Web.Razor.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\System.Web.WebPages.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\System.Web.WebPages.Deployment.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\System.Web.WebPages.Razor.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Antlr3.Runtime.pdb
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Newtonsoft.Json.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\EntityFramework.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\EntityFramework.SqlServer.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Core.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.Owin.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Facebook.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Cookies.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.OAuth.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Google.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Twitter.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.csprojResolveAssemblyReference.cache
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.InitialModel.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAddressToCustomer.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedPhoneNumberToCustomer.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedJobProfile.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedNameToJobProfile.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.SetNameOfJobProfile.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.PopulateJobProfile.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedCourseToModel.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddCourseDifficultyLevel.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedNameToCourse.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.PopulateNameInCourse.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddCourseDifficultyIdValues.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedDataAnnotationsToModel.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedJobProfile1.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddAnnotationToModel.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAnnotationsToCourse.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedValidations.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedByteToJobProfile.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.FeedbackClassAdded.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedFeedbackModel.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedFeedbackModelAnnotations.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AnnotationsRemovedFeedback.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.ChangedDatabaseException.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedDiscussionBoardModel.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.PopulateDiscussionTable.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.RemovedAnnotationsDiscussionModel.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAnnotationDiscussionModel.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.SeedUsers.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddAddressToApplicationUser.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddMobileNumberToApplicationUser.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAnnotationToMobileNumber.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedOccupationToApplicationUser.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedNameToApplicationUser.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedDataToCourse.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedRequiredToData.resources
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.csproj.GenerateResource.Cache
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.dll
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.pdb
+C:\faltu\webapp try\projects\try 1 finishing touches\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.RemovedCustomerAndJobProfile.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\ApplicationInsights.config
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\roslyn\csc.exe
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\roslyn\System.Collections.Immutable.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\roslyn\System.Reflection.Metadata.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\roslyn\vbc.exe
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\roslyn\VBCSCompiler.exe
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\roslyn\VBCSCompiler.exe.config
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\StudyPoint.dll.config
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\StudyPoint.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\StudyPoint.pdb
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Antlr3.Runtime.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\AutoMapper.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\EntityFramework.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\EntityFramework.SqlServer.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.AI.Agent.Intercept.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.AI.DependencyCollector.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.AI.Web.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.AI.WindowsServer.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.ApplicationInsights.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Core.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.Owin.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Cookies.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Facebook.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Google.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.OAuth.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Twitter.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.Web.Infrastructure.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Newtonsoft.Json.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Owin.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\System.Net.Http.Formatting.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\System.Web.Helpers.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\System.Web.Http.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\System.Web.Http.WebHost.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\System.Web.Mvc.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\System.Web.Optimization.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\System.Web.Razor.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\System.Web.WebPages.Deployment.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\System.Web.WebPages.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\System.Web.WebPages.Razor.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\WebGrease.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\AutoMapper.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.AI.DependencyCollector.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.AI.Web.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.AI.WindowsServer.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.ApplicationInsights.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\System.Net.Http.Formatting.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\System.Web.Http.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\System.Web.Http.WebHost.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\System.Web.Helpers.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\System.Web.Mvc.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\System.Web.Optimization.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\System.Web.Razor.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\System.Web.WebPages.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\System.Web.WebPages.Deployment.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\System.Web.WebPages.Razor.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Antlr3.Runtime.pdb
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Newtonsoft.Json.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\EntityFramework.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\EntityFramework.SqlServer.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Core.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.Owin.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Facebook.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Cookies.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.OAuth.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Google.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Twitter.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.csprojResolveAssemblyReference.cache
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.InitialModel.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAddressToCustomer.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedPhoneNumberToCustomer.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedJobProfile.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedNameToJobProfile.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.SetNameOfJobProfile.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.PopulateJobProfile.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedCourseToModel.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddCourseDifficultyLevel.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedNameToCourse.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.PopulateNameInCourse.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddCourseDifficultyIdValues.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedDataAnnotationsToModel.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedJobProfile1.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddAnnotationToModel.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAnnotationsToCourse.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedValidations.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedByteToJobProfile.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.FeedbackClassAdded.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedFeedbackModel.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedFeedbackModelAnnotations.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AnnotationsRemovedFeedback.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.ChangedDatabaseException.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedDiscussionBoardModel.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.PopulateDiscussionTable.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.RemovedAnnotationsDiscussionModel.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAnnotationDiscussionModel.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.SeedUsers.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddAddressToApplicationUser.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddMobileNumberToApplicationUser.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAnnotationToMobileNumber.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedOccupationToApplicationUser.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedNameToApplicationUser.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedDataToCourse.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedRequiredToData.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.RemovedCustomerAndJobProfile.resources
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.csproj.GenerateResource.Cache
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.dll
+C:\faltu\webapp try\projects\try 1 removed faltu cheez\StudyPoint\StudyPoint\obj\Debug\StudyPoint.pdb
+C:\asp.net project\StudyPoint\StudyPoint\bin\ApplicationInsights.config
+C:\asp.net project\StudyPoint\StudyPoint\bin\roslyn\csc.exe
+C:\asp.net project\StudyPoint\StudyPoint\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\asp.net project\StudyPoint\StudyPoint\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\asp.net project\StudyPoint\StudyPoint\bin\roslyn\System.Collections.Immutable.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\roslyn\System.Reflection.Metadata.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\roslyn\vbc.exe
+C:\asp.net project\StudyPoint\StudyPoint\bin\roslyn\VBCSCompiler.exe
+C:\asp.net project\StudyPoint\StudyPoint\bin\roslyn\VBCSCompiler.exe.config
+C:\asp.net project\StudyPoint\StudyPoint\bin\StudyPoint.dll.config
+C:\asp.net project\StudyPoint\StudyPoint\bin\StudyPoint.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\StudyPoint.pdb
+C:\asp.net project\StudyPoint\StudyPoint\bin\Antlr3.Runtime.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\AutoMapper.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\EntityFramework.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\EntityFramework.SqlServer.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.AI.Agent.Intercept.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.AI.DependencyCollector.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.AI.Web.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.AI.WindowsServer.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.ApplicationInsights.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Core.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.Owin.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Cookies.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Facebook.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Google.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.OAuth.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Twitter.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.Web.Infrastructure.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\Newtonsoft.Json.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\Owin.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\System.Net.Http.Formatting.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\System.Web.Helpers.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\System.Web.Http.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\System.Web.Http.WebHost.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\System.Web.Mvc.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\System.Web.Optimization.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\System.Web.Razor.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\System.Web.WebPages.Deployment.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\System.Web.WebPages.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\System.Web.WebPages.Razor.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\WebGrease.dll
+C:\asp.net project\StudyPoint\StudyPoint\bin\AutoMapper.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.AI.DependencyCollector.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.AI.Web.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.AI.WindowsServer.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.ApplicationInsights.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\System.Net.Http.Formatting.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\System.Web.Http.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\System.Web.Http.WebHost.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\System.Web.Helpers.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\System.Web.Mvc.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\System.Web.Optimization.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\System.Web.Razor.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\System.Web.WebPages.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\System.Web.WebPages.Deployment.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\System.Web.WebPages.Razor.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\Antlr3.Runtime.pdb
+C:\asp.net project\StudyPoint\StudyPoint\bin\Newtonsoft.Json.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\EntityFramework.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\EntityFramework.SqlServer.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Core.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.Owin.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Facebook.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Cookies.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.OAuth.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Google.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.Twitter.xml
+C:\asp.net project\StudyPoint\StudyPoint\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.csprojResolveAssemblyReference.cache
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.InitialModel.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAddressToCustomer.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedPhoneNumberToCustomer.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedJobProfile.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedNameToJobProfile.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.SetNameOfJobProfile.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.PopulateJobProfile.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedCourseToModel.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddCourseDifficultyLevel.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedNameToCourse.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.PopulateNameInCourse.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddCourseDifficultyIdValues.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedDataAnnotationsToModel.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedJobProfile1.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddAnnotationToModel.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAnnotationsToCourse.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedValidations.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedByteToJobProfile.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.FeedbackClassAdded.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedFeedbackModel.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedFeedbackModelAnnotations.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AnnotationsRemovedFeedback.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.ChangedDatabaseException.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedDiscussionBoardModel.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.PopulateDiscussionTable.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.RemovedAnnotationsDiscussionModel.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAnnotationDiscussionModel.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.SeedUsers.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddAddressToApplicationUser.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddMobileNumberToApplicationUser.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedAnnotationToMobileNumber.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedOccupationToApplicationUser.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedNameToApplicationUser.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedDataToCourse.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.AddedRequiredToData.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.Migrations.RemovedCustomerAndJobProfile.resources
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.csproj.GenerateResource.Cache
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.dll
+C:\asp.net project\StudyPoint\StudyPoint\obj\Debug\StudyPoint.pdb

@@ -1,0 +1,17 @@
+﻿@model StudyPoint.Models.Course
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/AdminSharedView.cshtml";
+}
+<br />
+<h2>@Model.Name</h2>
+<br />
+<details>
+    <strong>Course Category :</strong>   @Model.Category<br />
+    <strong>Instructor :</strong>        @Model.InstructorName<br />
+    <strong>Difficulty Level :</strong>  @Model.CourseDifficultyLevel.DifficultyLevel<br />
+    <strong>Course Fee :</strong>        @Model.Price<br />
+</details>
+<br />
+@Html.ActionLink("List of Courses", "Index", "Course")
+

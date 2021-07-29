@@ -1,0 +1,54 @@
+﻿@model StudyPoint.ViewModels.CourseFormViewModel
+@{
+    ViewBag.Title = "New";
+    Layout = "~/Views/Shared/AdminSharedView.cshtml";
+}
+<br />
+<h2>New Course</h2>
+<br />
+@using (Html.BeginForm("Save", "Course", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary("")
+    <div class="form-group">
+        @Html.LabelFor(m => m.Course.Name)
+        @Html.TextBoxFor(m => m.Course.Name, new { @class = "form-control"})
+        @*@Html.ValidationMessageFor(m => m.Course.Name, "", new { @class = "text-danger"})*@
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Course.Category)
+        @Html.TextBoxFor(m => m.Course.Category, new { @class = "form-control" })
+        @*@Html.ValidationMessageFor(m => m.Course.Category, "", new { @class = "text-danger"})*@
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Course.InstructorName)
+        @Html.TextBoxFor(m => m.Course.InstructorName, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Course.Price)
+        @Html.TextBoxFor(m => m.Course.Price, new { @class = "form-control" })
+        @*@Html.ValidationMessageFor(m => m.Course.Price, "", new { @class = "text-danger"})*@
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Course.CourseDifficultyLevelId)
+        @Html.DropDownListFor(m => m.Course.CourseDifficultyLevelId, new SelectList(Model.CourseDifficultyLevels, "Id", "DifficultyLevel"),"Select Difficulty Level", new { @class = "form-control" })
+        @*@Html.ValidationMessageFor(m => m.Course.Name, "", new { @class = "text-danger" })*@
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Course.Data)
+        <input class="form-control form-control-lg" id="fileCheck" type="file" name="File" />
+    </div>
+    @Html.HiddenFor(m => m.Course.Id);
+    @*<button type="submit" class="btn btn-primary">Save</button>*@
+    <input type="submit" value="Upload" onclick="CheckFile"/>
+
+}
+@section scripts
+{
+    <script>
+        $(document).ready(function () {
+            document.getElementById("fileCheck").setAttribute('accept', 'application/pdf');
+        })
+    </script>    
+}

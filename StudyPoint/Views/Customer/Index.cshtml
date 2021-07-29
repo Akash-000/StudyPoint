@@ -1,0 +1,33 @@
+﻿@model IEnumerable<StudyPoint.Models.ApplicationUser>
+@{
+    ViewBag.Title = "RealCustomers";
+    Layout = "~/Views/Shared/AdminSharedView.cshtml";
+}
+<br />
+<h2>Customers</h2>
+<br />
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Occupation</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            if (item.Email == "admin@studypoint.com")
+            {
+                continue;
+            }
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Email</td>
+                <td>@item.Occupation</td>
+                <td>@Html.ActionLink("Details", "Details", "Customer", new { id = item.Id.ToString() }, null)</td>
+            </tr>
+        }
+    </tbody>
+</table>
