@@ -1,0 +1,19 @@
+﻿@model StudyPoint.Models.FeedbackMsg
+@{
+    ViewBag.Title = "Feedback";
+    Layout = "~/Views/Shared/UserSharedView.cshtml";
+}
+<br />
+<h2>Feedback</h2>
+<h4>Your feedback is very important to us !</h4>
+<br />
+@using (Html.BeginForm("Feedback","User2", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.Message, new {style = "font-size : 12px;" })
+        @Html.TextAreaFor(m => m.Message, new { @class = "form-control", rows="10", style = "width: 80%; max-width: 100%;"})
+    </div>
+    @Html.HiddenFor(m => m.Id)
+    <button type="submit" class="btn btn-primary">Save</button>
+}
+

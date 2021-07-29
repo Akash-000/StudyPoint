@@ -1,0 +1,23 @@
+﻿@model StudyPoint.Models.ApplicationUser
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/UserSharedView.cshtml";
+}
+<br />
+<h1>Your Profile</h1>
+<br />
+<h3>@Model.Name</h3>
+<h4>@Model.Email</h4>
+
+@{
+    if (Model.MobileNumber != null)
+    {
+        <h4>@Model.MobileNumber</h4>
+    }
+    else
+    {
+        <h4>Contact (Not Provided)</h4>
+    }
+}
+<h4>@Model.Address</h4>
+<h5>@Html.ActionLink("Change Your Password", "ChangePassword", "Manage")</h5>

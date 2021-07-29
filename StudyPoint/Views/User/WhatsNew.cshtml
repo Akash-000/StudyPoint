@@ -1,0 +1,29 @@
+﻿@model IEnumerable<StudyPoint.Models.Course>
+@{
+    ViewBag.Title = "WhatsNew";
+    Layout = "~/Views/Shared/UserSharedView.cshtml";
+}
+<br />
+<h2>Courses Added Recently</h2>
+<br />
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Course Name</th>
+            <th>Instructor</th>
+            <th>Category</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var course in Model)
+        {
+            <tr>
+                <td>@Html.ActionLink(course.Name, "Details","User", new { id = course.Id}, null)</td>
+                @*<td>@course.Name</td>*@
+                <td>@course.InstructorName</td>
+                <td>@course.Category</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

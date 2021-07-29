@@ -1,0 +1,41 @@
+﻿@model StudyPoint.ViewModels.CourseFormViewModel
+@{
+    ViewBag.Title = "New";
+    Layout = "~/Views/Shared/AdminSharedView.cshtml";
+}
+<br />
+<h2>New Course</h2>
+<br />
+@using (Html.BeginForm("EditCourse", "Course2"))
+{
+    @Html.AntiForgeryToken();
+    <div class="form-group">
+        @Html.LabelFor(m => m.Course.Name)
+        @Html.TextBoxFor(m => m.Course.Name, new { @class = "form-control" })
+        @*@Html.ValidationMessageFor(m => m.Course.Name, "", new { @class = "text-danger"})*@
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Course.Category)
+        @Html.TextBoxFor(m => m.Course.Category, new { @class = "form-control" })
+        @*@Html.ValidationMessageFor(m => m.Course.Category, "", new { @class = "text-danger"})*@
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Course.InstructorName)
+        @Html.TextBoxFor(m => m.Course.InstructorName, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Course.Price)
+        @Html.TextBoxFor(m => m.Course.Price, new { @class = "form-control" })
+        @*@Html.ValidationMessageFor(m => m.Course.Price, "", new { @class = "text-danger"})*@
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Course.CourseDifficultyLevelId)
+        @Html.DropDownListFor(m => m.Course.CourseDifficultyLevelId, new SelectList(Model.CourseDifficultyLevels, "Id", "DifficultyLevel"), "Select Difficulty Level", new { @class = "form-control" })
+        @*@Html.ValidationMessageFor(m => m.Course.Name, "", new { @class = "text-danger" })*@
+    </div>
+
+    @Html.HiddenFor(m => m.Course.Id);
+    <button type="submit" class="btn btn-primary">Save</button>
+
+}
+

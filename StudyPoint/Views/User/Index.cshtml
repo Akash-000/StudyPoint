@@ -1,0 +1,57 @@
+﻿@using Microsoft.AspNet.Identity
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/UserSharedView.cshtml";
+}
+<link rel="stylesheet" href="~/Content/User/UserIndex.css" type="text/css" />
+<br />
+<h1 style="text-align:center;">Welcome !</h1>
+<br />
+<div class="row" style="margin: 50px 0px;">
+    <div class="col-md-1">
+
+    </div>
+    <div class="col-md-5 col-11">
+        <img src="~/Pictures/whatsnew.png" height="300" width="400"/>
+    </div>
+    <div class="col-md-1">
+
+    </div>
+    <div class="col-md-4 col-11 whatsNew">
+        <p>
+            While you were away, we at StudyPoint were trying our best to come up with even more tutorials to help you.<br /><br />
+            Check out the latest tutorials @Html.ActionLink("Here", "WhatsNew", "User")
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-12">
+        <h2 style="text-align:center;">Have Any Doubts?</h2>
+        <p style="margin: 0px 30px;">
+            We are very pleased to announce that we now have a discussion board where you can put your doubts which can be answered by 
+            other users or by our team.<br /><br />
+            Ask Your Doubt @Html.ActionLink("Here", "DiscussionBoard","User2")
+        </p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-12">
+        <h2 style="text-align:center;">Your Assistance Is Always Appreciated</h2>
+    </div>
+</div>
+
+<div class="row shareAndFeedback">
+    <div class="col-md-6 col-12">
+
+        <i class="fa fa-upload" aria-hidden="true"> </i> @*@Html.ActionLink("Share File", "ShareFile", "User2", new { style = "padding-left: 5px;" })*@
+        @Html.ActionLink("ShareFile", "ShareFile", "User2")
+    </div>
+    <div class="col-md-6 col-12">
+        <i class="fas fa-comments"> </i> @*@Html.ActionLink("Feedback", "Feedback","User2",new { style = "padding-left: 5px;"})*@
+        @Html.ActionLink("Feedback","Feedback","User2")
+    </div>
+</div>
+
+
+

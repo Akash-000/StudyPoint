@@ -1,0 +1,28 @@
+﻿.jumbotron
+    {
+        background-color:white;
+        border:0px;
+    }
+    .row
+    {
+        margin: 30px 0px;
+    }
+    .imageDiv
+    {
+        text-align:center;
+    }
+    .aboutImage
+    {
+        height: 80%;
+        width: 80%;
+        border-radius: 20px;
+    }
+    .aboutText
+    {
+        margin-top: 40px;
+        font-size: 17px;
+    }
+    .linkButton
+    {
+        text-align:center;
+    }
