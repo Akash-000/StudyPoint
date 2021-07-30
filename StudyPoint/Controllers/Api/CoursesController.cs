@@ -11,6 +11,7 @@ using System.Data.Entity;
 
 namespace StudyPoint.Controllers.Api
 {
+    [HandleError(ExceptionType = typeof(Exception), View = "ExceptionView")]
     [Authorize(Roles = "CanManageCourseAndCustomer")]
     public class CoursesController : ApiController
     {
