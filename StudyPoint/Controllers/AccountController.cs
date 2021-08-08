@@ -10,6 +10,7 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using StudyPoint.Models;
 using Microsoft.AspNet.Identity.EntityFramework;
+using StudyPoint.Data;
 
 namespace StudyPoint.Controllers
 {
@@ -152,7 +153,8 @@ namespace StudyPoint.Controllers
         {
             if (ModelState.IsValid)
             {
-                var user = new ApplicationUser {
+                var user = new StudyPointUsers
+                {
                     UserName = model.Email,
                     Email = model.Email,
                     Address = model.Address,
@@ -375,7 +377,7 @@ namespace StudyPoint.Controllers
                 {
                     return View("ExternalLoginFailure");
                 }
-                var user = new ApplicationUser { UserName = model.Email, Email = model.Email };
+                var user = new StudyPointUsers { UserName = model.Email, Email = model.Email };
                 var result = await UserManager.CreateAsync(user);
                 if (result.Succeeded)
                 {

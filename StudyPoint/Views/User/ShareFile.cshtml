@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewBag.Title = "ShareFile";
+    Layout = "~/Views/Shared/UserSharedView.cshtml";
+}
+<br />
+<h2>Share File</h2>
+<br />
+<div class="row">
+    <div class="col-md-6">
+        @using (Html.BeginForm("ShareFile", "User", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+        {
+            <input class="form-control form-control-lg" id="fileCheck" type="file" name="File" />
+            <br />
+            <input type="submit" value="Upload" />
+        }
+    </div>
+</div>
+<br />
+<br />
+<div class="row" style="margin-left: 10px;">
+    <h3><u><b>Note :</b></u></h3>
+    <p class="userShareFileNote">The files shared by users are uploaded and checked at the server side.</p>
+    <p class="userShareFileNote">Please do not upload something unwanted.</p>
+</div>
+
+@section scripts
+{
+    <script>
+        $(document).ready(function () {
+            document.getElementById("fileCheck").setAttribute('accept', 'application/pdf');
+        })
+    </script>
+}

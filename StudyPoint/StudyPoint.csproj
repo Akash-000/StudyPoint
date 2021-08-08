@@ -81,25 +81,73 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Owin, Version=4.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Owin.4.2.0\lib\net45\Microsoft.Owin.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security, Version=4.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Owin.Security.4.2.0\lib\net45\Microsoft.Owin.Security.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
+      <HintPath>..\packages\NLog.4.7.10\lib\net45\NLog.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PagedList, Version=1.17.0.0, Culture=neutral, PublicKeyToken=abbb863e9397c5e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\PagedList.1.17.0.0\lib\net40\PagedList.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PagedList.Mvc, Version=4.5.0.0, Culture=neutral, PublicKeyToken=abbb863e9397c5e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\PagedList.Mvc.4.5.0.0\lib\net40\PagedList.Mvc.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Compression" />
     <Reference Include="System.Net.Http.Formatting, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.3\lib\net45\System.Net.Http.Formatting.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Transactions" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
     <Reference Include="System.Web.ApplicationServices" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.Helpers.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System.Web.Http, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.AspNet.WebApi.Core.5.2.3\lib\net45\System.Web.Http.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System.Web.Http.WebHost, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.AspNet.WebApi.WebHost.5.2.3\lib\net45\System.Web.Http.WebHost.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.7\lib\net45\System.Web.Mvc.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.7\lib\net45\System.Web.Razor.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.WebPages.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.WebPages.Deployment.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System.Xml.Linq" />
@@ -119,32 +167,8 @@
     </Reference>
     <Reference Include="System.Net.Http.WebRequest">
     </Reference>
-    <Reference Include="System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <Private>True</Private>
-      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.Helpers.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Web.Mvc, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <Private>True</Private>
-      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.3\lib\net45\System.Web.Mvc.dll</HintPath>
-    </Reference>
     <Reference Include="System.Web.Optimization">
       <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <Private>True</Private>
-      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.3\lib\net45\System.Web.Razor.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <Private>True</Private>
-      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <Private>True</Private>
-      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.Deployment.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <Private>True</Private>
-      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
     </Reference>
     <Reference Include="WebGrease">
       <Private>True</Private>
@@ -177,14 +201,8 @@
     <Reference Include="Owin">
       <HintPath>..\packages\Owin.1.0\lib\net40\Owin.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.Owin">
-      <HintPath>..\packages\Microsoft.Owin.3.0.1\lib\net45\Microsoft.Owin.dll</HintPath>
-    </Reference>
     <Reference Include="Microsoft.Owin.Host.SystemWeb">
       <HintPath>..\packages\Microsoft.Owin.Host.SystemWeb.3.0.1\lib\net45\Microsoft.Owin.Host.SystemWeb.dll</HintPath>
-    </Reference>
-    <Reference Include="Microsoft.Owin.Security">
-      <HintPath>..\packages\Microsoft.Owin.Security.3.0.1\lib\net45\Microsoft.Owin.Security.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Owin.Security.Facebook">
       <HintPath>..\packages\Microsoft.Owin.Security.Facebook.3.0.1\lib\net45\Microsoft.Owin.Security.Facebook.dll</HintPath>
@@ -209,22 +227,23 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\IdentityConfig.cs" />
-    <Compile Include="App_Start\MappingProfile.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\AdminController.cs" />
     <Compile Include="Controllers\Api\CoursesController.cs" />
-    <Compile Include="Controllers\Course2Controller.cs" />
-    <Compile Include="Controllers\CourseController.cs" />
+    <Compile Include="Controllers\CourseController\CourseEditController.cs" />
+    <Compile Include="Controllers\CourseController\CourseController.cs" />
     <Compile Include="Controllers\CustomerController.cs" />
+    <Compile Include="Controllers\Exceptions\EditFormError.cs" />
+    <Compile Include="Controllers\Exceptions\NewFormError.cs" />
+    <Compile Include="Controllers\Exceptions\NoDataFound.cs" />
+    <Compile Include="Controllers\Exceptions\RequestNotFound.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
-    <Compile Include="Controllers\User2Controller.cs" />
-    <Compile Include="Controllers\UserController.cs" />
-    <Compile Include="Dtos\CourseDifficultyLevelDto.cs" />
-    <Compile Include="Dtos\CourseDto.cs" />
+    <Compile Include="Controllers\UserController\UserFunctionalityController.cs" />
+    <Compile Include="Controllers\UserController\UserController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -372,22 +391,32 @@
     <Compile Include="Migrations\202107281542571_RemovedCustomerAndJobProfile.Designer.cs">
       <DependentUpon>202107281542571_RemovedCustomerAndJobProfile.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202108061552567_AddedNameToFeedbackMsgs.cs" />
+    <Compile Include="Migrations\202108061552567_AddedNameToFeedbackMsgs.Designer.cs">
+      <DependentUpon>202108061552567_AddedNameToFeedbackMsgs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202108061624209_AddedOccupationToFeedbackMsgs.cs" />
+    <Compile Include="Migrations\202108061624209_AddedOccupationToFeedbackMsgs.Designer.cs">
+      <DependentUpon>202108061624209_AddedOccupationToFeedbackMsgs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202108061642141_AddedFieldsToDiscussionBoardModel.cs" />
+    <Compile Include="Migrations\202108061642141_AddedFieldsToDiscussionBoardModel.Designer.cs">
+      <DependentUpon>202108061642141_AddedFieldsToDiscussionBoardModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202108061654103_AddedMobileNumberToDiscussion.cs" />
+    <Compile Include="Migrations\202108061654103_AddedMobileNumberToDiscussion.Designer.cs">
+      <DependentUpon>202108061654103_AddedMobileNumberToDiscussion.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
-    <Compile Include="Models\Course.cs" />
-    <Compile Include="Models\CourseDifficultyLevel.cs" />
-    <Compile Include="Models\DiscussionBoardModel.cs" />
-    <Compile Include="Models\FeedbackMsg.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
-    <Compile Include="Models\UserSharedFileModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
     <Compile Include="ViewModels\CourseFormViewModel.cs" />
     <Compile Include="ViewModels\DiscussionViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Content\Admin\AdminIndex.css" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
     <Content Include="Content\bootstrap-grid.rtl.css" />
@@ -513,14 +542,7 @@
     <Content Include="Content\DataTables\images\sort_desc.png" />
     <Content Include="Content\DataTables\images\sort_desc_disabled.png" />
     <Content Include="Content\DataTables\swf\flashExport.swf" />
-    <Content Include="Content\Home\HomeAbout.css" />
-    <Content Include="Content\Home\HomeContact.css" />
-    <Content Include="Content\Home\HomeDepartment.css" />
-    <Content Include="Content\Home\HomeGallery.css" />
-    <Content Include="Content\Home\HomeIndex.css" />
-    <Content Include="Content\Home\HomeServices.css" />
-    <Content Include="Content\User2\User2ShareFile.css" />
-    <Content Include="Content\User\UserIndex.css" />
+    <Content Include="Content\PagedList.css" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
@@ -586,11 +608,7 @@
     <Content Include="Content\bootstrap-grid.css.map" />
     <Content Include="Content\DataTables\css\mixins.scss" />
     <Content Include="Content\DataTables\css\common.scss" />
-    <Content Include="App_Data\UserDownloadableContent\ASP.NET_46772.xlsx" />
-    <Content Include="App_Data\UserDownloadableContent\FrontEnd_4.docx" />
-    <Content Include="App_Data\UserDownloadableContent\LeadSquared - Engineering - Coding Standards.docx" />
-    <Content Include="App_Data\UserDownloadableContent\LeadSquared - Assignment - SQL - Adv v0.2 .docx" />
-    <Content Include="App_Data\UserDownloadableContent\C#.xlsx" />
+    <Content Include="NLog.config" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\DataTables\autoFill.bootstrap.js" />
     <Content Include="Scripts\DataTables\autoFill.bootstrap.min.js" />
@@ -724,17 +742,21 @@
     <Content Include="Views\User\UserProfile.cshtml" />
     <Content Include="Views\Shared\PageFooter.cshtml" />
     <Content Include="Views\User\Details.cshtml" />
-    <Content Include="Views\User2\ShareFile.cshtml" />
-    <Content Include="Views\User2\DiscussionBoard.cshtml" />
-    <Content Include="Views\User2\Feedback.cshtml" />
-    <Content Include="Views\User2\FileUploaded.cshtml" />
-    <Content Include="Views\User2\NoFileChoosen.cshtml" />
-    <Content Include="Views\Course2\EditCourseForm.cshtml" />
-    <Content Include="Views\Shared\ExceptionView.cshtml" />
+    <Content Include="Views\User\ShareFile.cshtml" />
+    <Content Include="Views\User\DiscussionBoard.cshtml" />
+    <Content Include="Views\User\Feedback.cshtml" />
+    <Content Include="Views\User\FileUploaded.cshtml" />
+    <Content Include="Views\User\NoFileChoosen.cshtml" />
+    <Content Include="Views\Course\EditCourseForm.cshtml" />
+    <Content Include="Views\Course\NoFileChoosen.cshtml" />
+    <Content Include="Views\Exception\NoData.cshtml" />
+    <Content Include="Views\Exception\NoRequestFound.cshtml" />
     <Content Include="Views\Shared\NoFileChoosen.cshtml" />
+    <Content Include="Views\Exception\NewFormError.cshtml" />
+    <Content Include="Views\Exception\EditFormError.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Data\UserUploadedFiles\" />
+    <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
@@ -850,6 +872,32 @@
     <EmbeddedResource Include="Migrations\202107281542571_RemovedCustomerAndJobProfile.resx">
       <DependentUpon>202107281542571_RemovedCustomerAndJobProfile.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202108061552567_AddedNameToFeedbackMsgs.resx">
+      <DependentUpon>202108061552567_AddedNameToFeedbackMsgs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202108061624209_AddedOccupationToFeedbackMsgs.resx">
+      <DependentUpon>202108061624209_AddedOccupationToFeedbackMsgs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202108061642141_AddedFieldsToDiscussionBoardModel.resx">
+      <DependentUpon>202108061642141_AddedFieldsToDiscussionBoardModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202108061654103_AddedMobileNumberToDiscussion.resx">
+      <DependentUpon>202108061654103_AddedMobileNumberToDiscussion.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\StudyPoint.Data\StudyPoint.Data.csproj">
+      <Project>{1BA979BB-4946-4342-9A47-7D6D67AC8E8E}</Project>
+      <Name>StudyPoint.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StudyPoint.Entities\StudyPoint.Entities.csproj">
+      <Project>{075405E7-A120-4086-998F-8CF3D2B0F9A0}</Project>
+      <Name>StudyPoint.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StudyPoint.Services\StudyPoint.Services.csproj">
+      <Project>{95811172-C699-4836-82D0-58B79BF4BED3}</Project>
+      <Name>StudyPoint.Services</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

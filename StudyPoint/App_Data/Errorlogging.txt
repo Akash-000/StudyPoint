@@ -1,0 +1,8 @@
+                   --------------------- Error(2021-08-08 20:28:55.3532)LSQLAP-2053-------------------- 
+                   
+                   Exception Type:StudyPoint.Controllers.RequestNotFound
+                   Exception Message:Exception of type 'StudyPoint.Controllers.RequestNotFound' was thrown.
+                   Stack Trace:
+                   Additional Info:StudyPoint.Controllers.RequestNotFound: Exception of type 'StudyPoint.Controllers.RequestNotFound' was thrown.
+   at StudyPoint.Controllers.UserController.UserProfile(String Id) in C:\asp.net project\backup after error logging\StudyPoint\StudyPoint\Controllers\UserController\UserController.cs:line 97
+                   

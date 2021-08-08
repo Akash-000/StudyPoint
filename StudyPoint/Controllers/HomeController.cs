@@ -8,13 +8,13 @@ namespace StudyPoint.Controllers
 {
 
     [HandleError(ExceptionType = typeof(Exception), View = "ExceptionView")]
-    [AllowAnonymous]
     public class HomeController : Controller
     {
         /// <summary>
         /// Landing page of the web application
         /// </summary>
         /// <returns>View</returns>
+        [AllowAnonymous]
         public ActionResult Index()
         {
             return View();
@@ -23,6 +23,7 @@ namespace StudyPoint.Controllers
         /// About the web application(StudyPoint)
         /// </summary>
         /// <returns>View</returns>
+        [AllowAnonymous]
         public ActionResult About()
         {
             return View();
@@ -31,6 +32,7 @@ namespace StudyPoint.Controllers
         /// Contact Us page of the web application
         /// </summary>
         /// <returns>View</returns>
+        [AllowAnonymous]
         public ActionResult Contact()
         {
             return View();
@@ -39,6 +41,7 @@ namespace StudyPoint.Controllers
         /// All the major technologies we deal with
         /// </summary>
         /// <returns></returns>
+        [AllowAnonymous]
         public ActionResult Services()
         {
             return View();
@@ -47,6 +50,7 @@ namespace StudyPoint.Controllers
         /// Team members
         /// </summary>
         /// <returns>View</returns>
+        [AllowAnonymous]
         public ActionResult Department()
         {
             return View();
@@ -55,6 +59,7 @@ namespace StudyPoint.Controllers
         /// Gallery
         /// </summary>
         /// <returns>View</returns>
+        [AllowAnonymous]
         public ActionResult Gallery()
         {
             return View();

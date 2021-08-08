@@ -1,0 +1,8 @@
+                   --------------------- Error(2021-08-06 19:12:43.1860)LSQLAP-2053-------------------- 
+                   
+                   Exception Type:StudyPoint.Controllers.NoDataFound
+                   Exception Message:Exception of type 'StudyPoint.Controllers.NoDataFound' was thrown.
+                   Stack Trace:
+                   Additional Info:StudyPoint.Controllers.NoDataFound: Exception of type 'StudyPoint.Controllers.NoDataFound' was thrown.
+   at StudyPoint.Controllers.AdminController.ShareFileManagement() in C:\asp.net project\StudyPoint\StudyPoint\Controllers\AdminController.cs:line 112
+                   
