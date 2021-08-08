@@ -1,4 +1,6 @@
-﻿@model IEnumerable<StudyPoint.Models.ApplicationUser>
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<StudyPoint.Data.StudyPointUsers>
 @{
     ViewBag.Title = "RealCustomers";
     Layout = "~/Views/Shared/AdminSharedView.cshtml";
@@ -31,3 +33,6 @@
         }
     </tbody>
 </table>
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page }),
+    new PagedListRenderOptions() { Display = PagedListDisplayMode.IfNeeded, DisplayPageCountAndCurrentLocation = true })
+

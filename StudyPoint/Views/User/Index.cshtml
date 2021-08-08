@@ -3,11 +3,10 @@
     ViewBag.Title = "Index";
     Layout = "~/Views/Shared/UserSharedView.cshtml";
 }
-<link rel="stylesheet" href="~/Content/User/UserIndex.css" type="text/css" />
 <br />
-<h1 style="text-align:center;">Welcome !</h1>
+<h1 class="userIndexMainHeading">Welcome !</h1>
 <br />
-<div class="row" style="margin: 50px 0px;">
+<div class="row userIndexRow" style="margin: 50px 0px;">
     <div class="col-md-1">
 
     </div>
@@ -17,39 +16,38 @@
     <div class="col-md-1">
 
     </div>
-    <div class="col-md-4 col-11 whatsNew">
-        <p>
+    <div class="col-md-4 col-11 userIndexWhatsNew">
+        <p class="userIndexPara">
             While you were away, we at StudyPoint were trying our best to come up with even more tutorials to help you.<br /><br />
             Check out the latest tutorials @Html.ActionLink("Here", "WhatsNew", "User")
         </p>
     </div>
 </div>
-<div class="row">
+<div class="row userIndexRow">
     <div class="col-12">
-        <h2 style="text-align:center;">Have Any Doubts?</h2>
-        <p style="margin: 0px 30px;">
+        <h2 class="userIndexSideHeading">Have Any Doubts?</h2>
+        <p class="userIndexPara">
             We are very pleased to announce that we now have a discussion board where you can put your doubts which can be answered by 
             other users or by our team.<br /><br />
-            Ask Your Doubt @Html.ActionLink("Here", "DiscussionBoard","User2")
+            Ask Your Doubt @Html.ActionLink("Here", "DiscussionBoard","User")
         </p>
     </div>
 </div>
 
-<div class="row">
+<div class="row userIndexRow">
     <div class="col-12">
-        <h2 style="text-align:center;">Your Assistance Is Always Appreciated</h2>
+        <h2 class="userIndexSideHeading">Your Assistance Is Always Appreciated</h2>
     </div>
 </div>
 
-<div class="row shareAndFeedback">
+<div class="row userIndexRow userIndexShareAndFeedback">
     <div class="col-md-6 col-12">
 
-        <i class="fa fa-upload" aria-hidden="true"> </i> @*@Html.ActionLink("Share File", "ShareFile", "User2", new { style = "padding-left: 5px;" })*@
-        @Html.ActionLink("ShareFile", "ShareFile", "User2")
+        <i class="fa fa-upload" aria-hidden="true"> </i> @Html.ActionLink("Share File", "ShareFile", "User")
     </div>
     <div class="col-md-6 col-12">
         <i class="fas fa-comments"> </i> @*@Html.ActionLink("Feedback", "Feedback","User2",new { style = "padding-left: 5px;"})*@
-        @Html.ActionLink("Feedback","Feedback","User2")
+        @Html.ActionLink("Feedback","Feedback","User")
     </div>
 </div>
 

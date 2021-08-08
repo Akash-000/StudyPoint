@@ -7,6 +7,7 @@
     <title>@ViewBag.Title - My ASP.NET Application</title>
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
+    <link rel="stylesheet" href="~/Content/Site.css" type="text/css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 </head>
@@ -27,9 +28,9 @@
                     <li>@Html.ActionLink("What's New", "WhatsNew", "User")</li>
                     <li>@Html.ActionLink("Profile", "UserProfile", "User", new { id = User.Identity.GetUserId()}, null)</li>
                     <li>@Html.ActionLink("Download Files", "Download", "User")</li>
-                    <li>@Html.ActionLink("Share Files", "ShareFile", "User2")</li>
-                    <li>@Html.ActionLink("Discussion Board", "DiscussionBoard", "User2")</li>
-                    <li>@Html.ActionLink("Feedback", "Feedback", "User2")</li>
+                    <li>@Html.ActionLink("Share Files", "ShareFile", "User")</li>
+                    <li>@Html.ActionLink("Discussion Board", "DiscussionBoard", "User")</li>
+                    <li>@Html.ActionLink("Feedback", "Feedback", "User")</li>
                 </ul>
                 @Html.Partial("_LoginPartial")
             </div>

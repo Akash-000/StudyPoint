@@ -1,4 +1,5 @@
-﻿@model StudyPoint.ViewModels.DiscussionViewModel
+﻿@using PagedList.Mvc;
+@model StudyPoint.ViewModels.DiscussionViewModel
 @{
     ViewBag.Title = "EnquiryManagement";
     Layout = "~/Views/Shared/AdminSharedView.cshtml";
@@ -9,21 +10,57 @@
 <table class="table table-hover table-bordered">
     <thead>
         <tr>
-            <th>Previous Discussions</th>
             <th>By: </th>
+            <th>Name</th>
+            <th>Contact No.</th>
+            <th>Occupation</th>
+            <th>Previous Discussions</th>
         </tr>
     </thead>
     <tbody>
         @foreach (var item in Model.Discussions)
         {
             <tr>
-                <td>@item.DiscussionMessage</td>
                 <td>@item.CustomerUserName</td>
+                @{
+                    if (item.Name != null)
+                    {
+                        <td>@item.Name</td>
+                    }
+                    else
+                    {
+                        <td>Admin</td>
+                    }
+                }
+
+                @{
+                    if (item.MobileNumber != null)
+                    {
+                        <td>@item.MobileNumber</td>
+                    }
+                    else
+                    {
+                        <td>Not Provided</td>
+                    }
+                }
+                @{
+                    if (item.Occupation != null)
+                    {
+                        <td>@item.Occupation</td>
+                    }
+                    else
+                    {
+                        <td>Admin</td>
+                    }
+                }
+                <td>@item.DiscussionMessage</td>
             </tr>
         }
     </tbody>
 </table>
 
+@Html.PagedListPager(Model.Discussions, page => Url.Action("EnquiryManagement", new { page }),
+new PagedListRenderOptions() { Display = PagedListDisplayMode.IfNeeded, DisplayPageCountAndCurrentLocation = true })
 <br />
 @*<h3>Your Thoughts </h3>*@
 

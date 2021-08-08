@@ -1,4 +1,6 @@
-﻿@model List<StudyPoint.Models.Course>
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<StudyPoint.Models.Course>
 @{
     ViewBag.Title = "Download";
     Layout = "~/Views/Shared/UserSharedView.cshtml";
@@ -19,3 +21,5 @@
         </tr>
     }
 </table>
+@Html.PagedListPager(Model, page => Url.Action("Download", new { page }),
+    new PagedListRenderOptions() { Display = PagedListDisplayMode.IfNeeded, DisplayPageCountAndCurrentLocation = true })

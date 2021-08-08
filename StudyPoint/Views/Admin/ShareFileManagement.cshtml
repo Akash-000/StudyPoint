@@ -1,4 +1,7 @@
-﻿@model List<StudyPoint.Models.UserSharedFileModel>
+﻿@using PagedList;
+@using PagedList.Mvc;
+
+@model IPagedList<StudyPoint.Models.UserSharedFileModel>
 @{
     ViewBag.Title = "ShareFileManagement";
     Layout = "~/Views/Shared/AdminSharedView.cshtml";
@@ -17,4 +20,10 @@
         </tr>
     }
 </table>
+
+@Html.PagedListPager(Model, page => Url.Action("ShareFileManagement", new { page }),
+    new PagedListRenderOptions() { Display = PagedListDisplayMode.IfNeeded, DisplayPageCountAndCurrentLocation = true})
+
+
+
 

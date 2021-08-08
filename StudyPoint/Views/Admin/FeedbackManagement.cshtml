@@ -1,4 +1,6 @@
-﻿@model IEnumerable<StudyPoint.Models.FeedbackMsg>
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<StudyPoint.Models.FeedbackMsg>
 @{
     ViewBag.Title = "FeedbackManagement";
     Layout = "~/Views/Shared/AdminSharedView.cshtml";
@@ -9,19 +11,37 @@
 <table class="table table-bordered table-hover">
     <thead>
         <tr>
-            <th>Feedbacks</th>
             <th>By: </th>
+            <th>Name</th>
+            <th>Contact No.</th>
+            <th>Occupation</th>
+            <th>Feedbacks</th>
         </tr>
     </thead>
     <tbody>
-        @foreach(var feedback in Model)
+        @foreach (var feedback in Model)
         {
             <tr>
-                <td>@feedback.Message</td>
                 <td>@feedback.CustomerUserName</td>
+                <td>@feedback.Name</td>
+
+               @{
+                   if (feedback.MobileNumber != null)
+                   {
+                    <td>@feedback.MobileNumber</td>
+                   }
+                   else
+                   {
+                       <td>Not Provided</td>
+                   }
+            }
+                <td>@feedback.Occupation</td>
+                <td>@feedback.Message</td>
             </tr>
 
         }
     </tbody>
 </table>
+@Html.PagedListPager(Model, page => Url.Action("FeedbackManagement", new { page}), 
+    new PagedListRenderOptions() { Display = PagedListDisplayMode.IfNeeded, DisplayPageCountAndCurrentLocation = true})
 

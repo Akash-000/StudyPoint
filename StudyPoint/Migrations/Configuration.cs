@@ -5,14 +5,14 @@ namespace StudyPoint.Migrations
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<StudyPoint.Models.ApplicationDbContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<StudyPoint.Data.StudyPointContext>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
         }
 
-        protected override void Seed(StudyPoint.Models.ApplicationDbContext context)
+        protected override void Seed(StudyPoint.Data.StudyPointContext context)
         {
             //  This method will be called after migrating to the latest version.
 
