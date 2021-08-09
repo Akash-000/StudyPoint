@@ -6,3 +6,11 @@
                    Additional Info:StudyPoint.Controllers.RequestNotFound: Exception of type 'StudyPoint.Controllers.RequestNotFound' was thrown.
    at StudyPoint.Controllers.UserController.UserProfile(String Id) in C:\asp.net project\backup after error logging\StudyPoint\StudyPoint\Controllers\UserController\UserController.cs:line 97
                    
+                   --------------------- Error(2021-08-08 22:17:20.0311)LSQLAP-2053-------------------- 
+                   
+                   Exception Type:System.IO.FileNotFoundException
+                   Exception Message:Unable to find the specified file.
+                   Stack Trace:
+                   Additional Info:System.IO.FileNotFoundException: Unable to find the specified file.
+   at StudyPoint.Controllers.UserController.ShareFile(HttpPostedFileBase File) in C:\asp.net project\backup after error logging\StudyPoint\StudyPoint\Controllers\UserController\UserFunctionalityController.cs:line 42
+                   
